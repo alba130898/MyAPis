@@ -2,7 +2,7 @@
 Ejemplos con URLs de APIS:
 
 - 13 AJAX y XMLHTTPRequest
-// AJAX https://alba130898.github.io/MyApis/13%20AJAX%20y%20XMLHTTPRequest/AJAX/index.html
+https://alba130898.github.io/MyApis/13%20AJAX%20y%20XMLHTTPRequest/AJAX/index.html
 https://alba130898.github.io/MyApis/13%20AJAX%20y%20XMLHTTPRequest/AJAXJSON/index.html
 https://alba130898.github.io/MyApis/13%20AJAX%20y%20XMLHTTPRequest/JSONAPI/index.html
 
