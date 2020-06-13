@@ -2,8 +2,8 @@
 Ejemplos con URLs de APIS:
 
 - 13 AJAX y XMLHTTPRequest
-https://alba130898.github.io/MyApis/13%20AJAX%20y%20XMLHTTPRequest/AJAX/index.html
-https://alba130898.github.io/MyApis/13%20AJAX%20y%20XMLHTTPRequest/AJAXJSON/index.html
+https://alba130898.github.io/MyApis/13%20AJAX%20y%20XMLHTTPRequest/AJAX/index.html // AJAX
+https://alba130898.github.io/MyApis/13%20AJAX%20y%20XMLHTTPRequest/AJAXJSON/index.html // AJAX
 https://alba130898.github.io/MyApis/13%20AJAX%20y%20XMLHTTPRequest/JSONAPI/index.html
 
 - 14 PROYECTO Generador de Nombres con REST API y AJAX
