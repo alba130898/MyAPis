@@ -16,10 +16,11 @@ https://alba130898.github.io/MyApis/15%20JavaScript%20Asincrono%20o%20Async%20JS
 - 16 Fetch API - La nueva tecnologia para realizar peticiones que desplazo a AJAX
 //fetchapi https://alba130898.github.io/MyApis/16%20Fetch%20API%20-%20La%20nueva%20tecnologia%20para%20realizar%20peticiones%20que%20desplazo%20a%20AJAX/fetchapi/index.html 
 
-
 //nombresFetchAPI https://alba130898.github.io/MyApis/16%20Fetch%20API%20-%20La%20nueva%20tecnologia%20para%20realizar%20peticiones%20que%20desplazo%20a%20AJAX/nombresFetchAPI/index.html 
 
 - 17 Arrow Functions
 //Sintaxis de las Arrow https://alba130898.github.io/MyApis/17%20Arrow%20Functions/Sintaxis%20de%20las%20Arrow/index.html 
+
 //nombresFetchAPI https://alba130898.github.io/MyApis/17%20Arrow%20Functions/nombresFetchAPI/index.html 
+
 //fetchapiArrow https://alba130898.github.io/MyApis/17%20Arrow%20Functions/fetchapiArrow/index.html 
